@@ -2,7 +2,7 @@
 <h3>Welcome to the Beauty Parlour Website repository! This repository contains the source code for a simple yet elegant webpage designed for a beauty parlour.</h3>
 
 <h3>Features</h3>
-<p>1.About Us Section: Learn about the beauty parlour, its mission, and values.<br>
+<p>1.About Us Section: Learn about the beauty parlour, its mission, and values.<br><br>
 2.Services Section: Explore the range of services offered, from haircuts to skincare.<br><br>
 3.Contact Section: Find contact details including address, phone number, and email.<br><br>
 4.Style section:The styles section showcases the different haircuts, hairstyles, and makeup looks that the beauty parlour specializes in. This visual representation allows customers to see the expertise and creativity of the beauty professionals.<br><br>
